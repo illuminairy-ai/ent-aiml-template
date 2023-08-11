@@ -1,3 +1,4 @@
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3114/)
 [![PyPI downloads month](https://img.shields.io/pypi/dm/snowflake-ai.svg)](https://pypi.python.org/pypi/snowflake-ai/)
 
 ## Enterprise AI/ML project template

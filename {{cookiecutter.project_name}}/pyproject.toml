@@ -3,12 +3,10 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "{{cookiecutter.directory_name}}"
+name = "{{cookiecutter.project_name}}"
 version = "0.1.0"
 description = ""
 authors = ["{{cookiecutter.author_name}}"]
 
 [tool.poetry.dependencies]
-python = "~3.8.15"
-numpy = "~1.24.2"
-pandas = "~1.5.2"
+python = "^3.11.4"
