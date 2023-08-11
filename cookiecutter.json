@@ -1,0 +1,7 @@
+{
+  "project_name": "your-project-name",
+  "project_desc": "Your project's short description",	
+  "directory_name": "your_project_directory_name",
+  "author_name": "author_name",
+  "author_email": "your@email.com"
+}
